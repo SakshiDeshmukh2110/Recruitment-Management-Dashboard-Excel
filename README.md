@@ -84,3 +84,10 @@ Department hiring demand was highest for IT.
 Recruiters achieved different hiring targets.
 Offer acceptance rate remained above 70%.
 Monthly applications peaked during hiring seasons.
+
+Future Improvements
+Power BI Integration
+SQL Database Connectivity
+Automated Data Refresh
+VBA Automation
+Recruitment Forecasting
